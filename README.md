@@ -1,4 +1,4 @@
-# Employee Task Manager – Frontend (Track 1)
+# Taskflow Manager – Frontend (Track 1)
 
 This is a simple and responsive Employee Task Manager built using React + Vite + Tailwind CSS.
 The goal of this track was to create a clean, functional frontend that works entirely on mock JSON data, without any backend or database.
@@ -36,12 +36,18 @@ Mock JSON data
 # Folder Structure Overview
 
 src/
-├── components/ : Navbar, EmployeeCard, TaskCard
-├── pages/ : Dashboard, Employees, Tasks
-├── data/ : employees.json, tasks.json
-├── App.jsx
-├── main.jsx
-└── index.css
+
+components/ : Navbar, EmployeeCard, TaskCard
+
+pages/ : Dashboard, Employees, Tasks
+
+data/ : employees.json, tasks.json
+
+App.jsx
+
+main.jsx
+
+index.css
 
 # Running the Project Locally
 
