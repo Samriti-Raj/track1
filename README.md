@@ -70,7 +70,7 @@ Then open the URL shown in the terminal (usually http://localhost:5173/).
 ![Tasks Screenshot](./screenshots/tasks.png)
 
 # A Few Notes
-No backend is used in this track — everything comes from local JSON files.
+No backend is used in this track - everything comes from local JSON files.
 
 Task cards automatically map the “assignedTo” field to the corresponding employee.
 
