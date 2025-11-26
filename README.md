@@ -54,7 +54,9 @@ index.css
 Clone or download the repo, open the folder, and run:
 
 npm install
+
 npm run dev
+
 Then open the URL shown in the terminal (usually http://localhost:5173/).
 
 # Screenshots
