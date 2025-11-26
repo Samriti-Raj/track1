@@ -3,7 +3,7 @@
 This is a simple and responsive Employee Task Manager built using React + Vite + Tailwind CSS.
 The goal of this track was to create a clean, functional frontend that works entirely on mock JSON data, without any backend or database.
 
-The application includes a dashboard, employee listing, and task listing — all built with reusable components and basic UI interactions.
+The application includes a dashboard, employee listing, and task listing - all built with reusable components and basic UI interactions.
 
 # What’s Inside
 
